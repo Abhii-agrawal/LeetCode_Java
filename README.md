@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0007-reverse-integer) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## Counting
 |  |

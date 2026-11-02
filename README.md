@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0409-longest-palindrome) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->

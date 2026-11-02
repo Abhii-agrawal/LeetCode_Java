@@ -18,9 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0007-reverse-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## Counting
 |  |
 | ------- |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1742-maximum-number-of-balls-in-a-box) |
+## Array
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->

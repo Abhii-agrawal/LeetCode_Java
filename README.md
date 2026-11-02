@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0409-longest-palindrome) |
+| [0520-detect-capital](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0520-detect-capital) |
 ## Greedy
 |  |
 | ------- |

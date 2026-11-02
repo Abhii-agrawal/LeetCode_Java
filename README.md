@@ -30,8 +30,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0503-next-greater-element-ii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0076-minimum-window-substring) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0007-reverse-integer) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Counting
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0503-next-greater-element-ii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sliding Window
 |  |
 | ------- |

@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0409-longest-palindrome) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0520-detect-capital) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0076-minimum-window-substring) |
 ## Stack
 |  |

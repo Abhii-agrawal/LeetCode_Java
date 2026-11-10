@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0076-minimum-window-substring) |
+| [0402-remove-k-digits](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0520-detect-capital) |
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0409-longest-palindrome) |
 ## Math
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0402-remove-k-digits](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/2104-sum-of-subarray-ranges) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation

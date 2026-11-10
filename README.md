@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0735-asteroid-collision) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2104-sum-of-subarray-ranges](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/2104-sum-of-subarray-ranges) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sliding Window
 |  |
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0735-asteroid-collision) |
+| [2104-sum-of-subarray-ranges](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |

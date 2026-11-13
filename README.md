@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Counting
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0735-asteroid-collision) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2104-sum-of-subarray-ranges](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/2104-sum-of-subarray-ranges) |
 | [3046-split-the-array](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/3046-split-the-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0735-asteroid-collision) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -88,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->

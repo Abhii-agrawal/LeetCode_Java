@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0520-detect-capital) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0735-asteroid-collision) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |

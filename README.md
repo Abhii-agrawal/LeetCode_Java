@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0227-basic-calculator-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0633-sum-of-square-numbers](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0633-sum-of-square-numbers) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -90,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |

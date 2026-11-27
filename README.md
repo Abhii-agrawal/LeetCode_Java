@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2413-smallest-even-multiple](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/2413-smallest-even-multiple) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Counting
 |  |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1071-greatest-common-divisor-of-strings) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->

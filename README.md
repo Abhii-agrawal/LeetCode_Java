@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0520-detect-capital) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Greedy
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0227-basic-calculator-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0633-sum-of-square-numbers](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0633-sum-of-square-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/0232-implement-queue-using-stacks) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Abhii-agrawal/LeetCode_Java/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
